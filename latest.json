@@ -1,44 +1,46 @@
-"pitchers": {
-  "spencer strider": {
-    "season": {
-      "starts": 7,
-      "runs_allowed": 2,
-      "failures": 1,
-      "nrfi_pct": 85.7
+{
+  "pitchers": {
+    "spencer strider": {
+      "season": {
+        "starts": 7,
+        "runs_allowed": 2,
+        "failures": 1,
+        "nrfi_pct": 85.7
+      },
+      "last5": {
+        "starts": 5,
+        "runs_allowed": 1,
+        "failures": 1,
+        "nrfi_pct": 80.0
+      }
     },
-    "last5": {
-      "starts": 5,
-      "runs_allowed": 1,
-      "failures": 1,
-      "nrfi_pct": 80.0
-    }
-  },
-  "gerrit cole": {
-    "season": {
-      "starts": 6,
-      "runs_allowed": 1,
-      "failures": 0,
-      "nrfi_pct": 100.0
+    "gerrit cole": {
+      "season": {
+        "starts": 6,
+        "runs_allowed": 1,
+        "failures": 0,
+        "nrfi_pct": 100.0
+      },
+      "last5": {
+        "starts": 5,
+        "runs_allowed": 0,
+        "failures": 0,
+        "nrfi_pct": 100.0
+      }
     },
-    "last5": {
-      "starts": 5,
-      "runs_allowed": 0,
-      "failures": 0,
-      "nrfi_pct": 100.0
-    }
-  },
-  "shohei ohtani": {
-    "season": {
-      "starts": 5,
-      "runs_allowed": 3,
-      "failures": 2,
-      "nrfi_pct": 60.0
-    },
-    "last5": {
-      "starts": 5,
-      "runs_allowed": 3,
-      "failures": 2,
-      "nrfi_pct": 60.0
+    "shohei ohtani": {
+      "season": {
+        "starts": 5,
+        "runs_allowed": 3,
+        "failures": 2,
+        "nrfi_pct": 60.0
+      },
+      "last5": {
+        "starts": 5,
+        "runs_allowed": 3,
+        "failures": 2,
+        "nrfi_pct": 60.0
+      }
     }
   }
 }
