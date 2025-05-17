@@ -1,15 +1,315 @@
 {
+  "teams": {
+    "arizona diamondbacks": {
+      "season": {
+        "scored": 0.62,
+        "allowed": 0.52
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.4
+      }
+    },
+    "atlanta braves": {
+      "season": {
+        "scored": 0.71,
+        "allowed": 0.38
+      },
+      "last5": {
+        "scored": 0.8,
+        "allowed": 0.4
+      }
+    },
+    "baltimore orioles": {
+      "season": {
+        "scored": 0.67,
+        "allowed": 0.44
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.6
+      }
+    },
+    "boston red sox": {
+      "season": {
+        "scored": 0.61,
+        "allowed": 0.55
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.4
+      }
+    },
+    "chicago white sox": {
+      "season": {
+        "scored": 0.41,
+        "allowed": 0.63
+      },
+      "last5": {
+        "scored": 0.2,
+        "allowed": 0.8
+      }
+    },
+    "chicago cubs": {
+      "season": {
+        "scored": 0.58,
+        "allowed": 0.53
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.6
+      }
+    },
+    "cincinnati reds": {
+      "season": {
+        "scored": 0.53,
+        "allowed": 0.61
+      },
+      "last5": {
+        "scored": 0.4,
+        "allowed": 0.8
+      }
+    },
+    "cleveland guardians": {
+      "season": {
+        "scored": 0.66,
+        "allowed": 0.43
+      },
+      "last5": {
+        "scored": 0.8,
+        "allowed": 0.6
+      }
+    },
+    "colorado rockies": {
+      "season": {
+        "scored": 0.47,
+        "allowed": 0.66
+      },
+      "last5": {
+        "scored": 0.2,
+        "allowed": 0.8
+      }
+    },
+    "detroit tigers": {
+      "season": {
+        "scored": 0.48,
+        "allowed": 0.54
+      },
+      "last5": {
+        "scored": 0.4,
+        "allowed": 0.6
+      }
+    },
+    "houston astros": {
+      "season": {
+        "scored": 0.6,
+        "allowed": 0.56
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.4
+      }
+    },
+    "kansas city royals": {
+      "season": {
+        "scored": 0.59,
+        "allowed": 0.49
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.6
+      }
+    },
+    "los angeles angels": {
+      "season": {
+        "scored": 0.52,
+        "allowed": 0.6
+      },
+      "last5": {
+        "scored": 0.4,
+        "allowed": 0.8
+      }
+    },
+    "los angeles dodgers": {
+      "season": {
+        "scored": 0.69,
+        "allowed": 0.45
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.4
+      }
+    },
+    "miami marlins": {
+      "season": {
+        "scored": 0.43,
+        "allowed": 0.58
+      },
+      "last5": {
+        "scored": 0.2,
+        "allowed": 0.6
+      }
+    },
+    "milwaukee brewers": {
+      "season": {
+        "scored": 0.64,
+        "allowed": 0.5
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.4
+      }
+    },
+    "minnesota twins": {
+      "season": {
+        "scored": 0.55,
+        "allowed": 0.51
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.6
+      }
+    },
+    "new york mets": {
+      "season": {
+        "scored": 0.5,
+        "allowed": 0.6
+      },
+      "last5": {
+        "scored": 0.4,
+        "allowed": 0.6
+      }
+    },
+    "new york yankees": {
+      "season": {
+        "scored": 0.68,
+        "allowed": 0.41
+      },
+      "last5": {
+        "scored": 0.8,
+        "allowed": 0.4
+      }
+    },
+    "oakland athletics": {
+      "season": {
+        "scored": 0.38,
+        "allowed": 0.62
+      },
+      "last5": {
+        "scored": 0.2,
+        "allowed": 0.8
+      }
+    },
+    "philadelphia phillies": {
+      "season": {
+        "scored": 0.66,
+        "allowed": 0.44
+      },
+      "last5": {
+        "scored": 0.8,
+        "allowed": 0.4
+      }
+    },
+    "pittsburgh pirates": {
+      "season": {
+        "scored": 0.46,
+        "allowed": 0.6
+      },
+      "last5": {
+        "scored": 0.2,
+        "allowed": 0.6
+      }
+    },
+    "san diego padres": {
+      "season": {
+        "scored": 0.62,
+        "allowed": 0.49
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.6
+      }
+    },
+    "san francisco giants": {
+      "season": {
+        "scored": 0.57,
+        "allowed": 0.53
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.6
+      }
+    },
+    "seattle mariners": {
+      "season": {
+        "scored": 0.49,
+        "allowed": 0.52
+      },
+      "last5": {
+        "scored": 0.4,
+        "allowed": 0.4
+      }
+    },
+    "st. louis cardinals": {
+      "season": {
+        "scored": 0.52,
+        "allowed": 0.55
+      },
+      "last5": {
+        "scored": 0.4,
+        "allowed": 0.6
+      }
+    },
+    "tampa bay rays": {
+      "season": {
+        "scored": 0.54,
+        "allowed": 0.5
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.4
+      }
+    },
+    "texas rangers": {
+      "season": {
+        "scored": 0.63,
+        "allowed": 0.48
+      },
+      "last5": {
+        "scored": 0.6,
+        "allowed": 0.4
+      }
+    },
+    "toronto blue jays": {
+      "season": {
+        "scored": 0.51,
+        "allowed": 0.57
+      },
+      "last5": {
+        "scored": 0.4,
+        "allowed": 0.6
+      }
+    },
+    "washington nationals": {
+      "season": {
+        "scored": 0.44,
+        "allowed": 0.59
+      },
+      "last5": {
+        "scored": 0.4,
+        "allowed": 0.6
+      }
+    }
+  },
   "pitchers": {
     "spencer strider": {
       "season": {
-        "starts": 7,
-        "runs_allowed": 2,
-        "failures": 1,
-        "nrfi_pct": 85.7
+        "starts": 8,
+        "failures": 2,
+        "nrfi_pct": 75.0
       },
       "last5": {
         "starts": 5,
-        "runs_allowed": 1,
         "failures": 1,
         "nrfi_pct": 80.0
       }
@@ -17,13 +317,11 @@
     "gerrit cole": {
       "season": {
         "starts": 6,
-        "runs_allowed": 1,
         "failures": 0,
         "nrfi_pct": 100.0
       },
       "last5": {
         "starts": 5,
-        "runs_allowed": 0,
         "failures": 0,
         "nrfi_pct": 100.0
       }
@@ -31,13 +329,11 @@
     "shohei ohtani": {
       "season": {
         "starts": 5,
-        "runs_allowed": 3,
         "failures": 2,
         "nrfi_pct": 60.0
       },
       "last5": {
         "starts": 5,
-        "runs_allowed": 3,
         "failures": 2,
         "nrfi_pct": 60.0
       }
